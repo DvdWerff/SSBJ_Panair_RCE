@@ -1,0 +1,20 @@
+ Debug output from panin on                
+ Reading auxiliary data from SSBJ_wing.aux
+ Reading wgs file general title:SSBJ_wing created by wgs_creator
+ Completed reading network:wing
+ Completed reading network:wingtip
+ Completed reading network:wingwake
+ There are            3  networks.
+ Command  1 MACH 1.6
+ Mach=   1.60000002    
+ Command 11 ALPHA -1.0
+ Command  9 ALPC -1.0
+ Command  6 CBAR 4.500048866309094
+ Command  7 SPAN 22.60457298866758
+ Command  2 SREF 92.90304
+ Command  3 XREF 1.4864095340238421
+ Command  5 ZREF 0.0
+ Command 35 BOUN 1 1 18
+ Net            1    kt=           1
+ Net            2    kt=           1
+ Net            3    kt=          18

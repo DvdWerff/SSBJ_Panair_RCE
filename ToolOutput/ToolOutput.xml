@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dataSchema>
+  <aircraft>
+    <other>
+      <L>65991.09611262214</L>
+      <D>25826.872436933965</D>
+      <fin>2.5551330798479084</fin>
+    </other>
+  </aircraft>
+</dataSchema>

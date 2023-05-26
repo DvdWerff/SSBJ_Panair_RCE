@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dataSchema>
+  <aircraft>
+    <geometry>
+      <lambda>0.25</lambda>
+      <Lambda>55</Lambda>
+      <Sref>1000</Sref>
+      <tc>0.05</tc>
+      <AR>5.5</AR>
+      <Theta>0.981840694937</Theta>
+      <chord_kink>0.5</chord_kink>
+      <sweep_outboard>55</sweep_outboard>
+      <b_kink>0.5</b_kink>
+    </geometry>
+    <weight>
+      <WT>66000</WT>
+    </weight>
+  </aircraft>
+  <reference>
+    <h>45000</h>
+    <M>1.6</M>
+  </reference>
+</dataSchema>

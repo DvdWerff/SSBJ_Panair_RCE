@@ -1,0 +1,39 @@
+ ++ Running A502, F.T. Johnson, M.A. Epton et al
+ PDAS version j01, 08 Dec 2020                
+  real length, integer length, ratio:    8   4   2
+ initialz   cpu time:     0.015
+ input      cpu time:     0.030
+ init       cpu time:     0.030
+ ixtrns called with lth.le.0, irec:    63     0
+ ixtrns called with lth.le.0, irec:    64     0
+ geometry   cpu time:     0.077
+ singular   cpu time:     0.140
+ cntrl pt   cpu time:     0.155
+ bndy cnd   cpu time:     0.187
+ ffgen      cpu time:     0.203
+ TIMING SUMMARY: vin,krn,phi,vel,vsp,near-    0.173000    0.094000    0.238000    0.000000    0.000000    0.876000
+ TIMING SUMMARY: setup,pic-s,block,assy-    0.140000    1.768000    0.297000    0.404000
+ closms on unit 68   header record:   24001      95       1      94
+ closms on unit  4   header record:   24002   28119   28025      94
+  ft04 (pic file) done.  index lth-24001  cp count- 1955  nwv recd- 1956 
+ pic cost   cpu time:     2.827
+ closms on unit 20   header record:      34    1860    1859       1
+ closms on unit 19   header record:      66   14171   14170       1
+ closms on unit  4   header record:   24002   28119   28025      94
+ aic cost   cpu time:     3.077
+ closms on unit 19   header record:      66   14172   14170       1
+  ft19 (l*u) done.  nhdat:      0 250000   1901      2    249     78     
+ 1-st factor done
+ closms on unit 19   header record:      66   14172   14170       1
+ closms on unit 28   header record:       9      18      17       1
+ 1-st solve done
+  direct solution, no iteration performed                                
+  ft09 (singularity file) complete                                       
+ mtrxsoln   cpu time:     3.906
+ pppdq      cpu time:     3.984
+ closms on unit 49   header record:     751     311     308       3
+ closms on unit  4   header record:   24002   28119   28025      94
+ output     cpu time:     4.499
+ closms on unit 24   header record:     202     237     236       1
+ closms on unit 26   header record:     302      41      39       2
+ closms on unit  2   header record:   18001    3536    3465      71

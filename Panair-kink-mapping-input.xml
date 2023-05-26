@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map:mappings xmlns:map="http://www.dlr.de/sistec/tiva/tool/mapping" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<map:mapping>
+    <map:source>/dataSchema/aircraft/geometry/tc</map:source>
+    <map:target>/dataSchema/aircraft/geometry/tc</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/aircraft/geometry/AR</map:source>
+    <map:target>/dataSchema/aircraft/geometry/AR</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/aircraft/geometry/Lambda</map:source>
+    <map:target>/dataSchema/aircraft/geometry/Lambda</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/aircraft/geometry/Sref</map:source>
+    <map:target>/dataSchema/aircraft/geometry/Sref</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/reference/h</map:source>
+    <map:target>/dataSchema/reference/h</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/reference/M</map:source>
+    <map:target>/dataSchema/reference/M</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/aircraft/weight/WT</map:source>
+    <map:target>/dataSchema/aircraft/weight/WT</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/aircraft/geometry/lambda</map:source>
+    <map:target>/dataSchema/aircraft/geometry/lambda</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/aircraft/geometry/Theta</map:source>
+    <map:target>/dataSchema/aircraft/geometry/Theta</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/aircraft/geometry/chord_kink</map:source>
+    <map:target>/dataSchema/aircraft/geometry/chord_kink</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/aircraft/geometry/sweep_outboard</map:source>
+    <map:target>/dataSchema/aircraft/geometry/sweep_outboard</map:target>
+</map:mapping>
+<map:mapping>
+    <map:source>/dataSchema/aircraft/geometry/b_kink</map:source>
+    <map:target>/dataSchema/aircraft/geometry/b_kink</map:target>
+</map:mapping>
+</map:mappings>
